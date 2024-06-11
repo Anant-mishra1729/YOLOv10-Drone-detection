@@ -18,6 +18,3 @@ https://nbviewer.org/github/Anant-mishra1729/YOLOv9-Drone-detection/blob/main/Yo
 
 ### Sample predictions
 <img src = "result.png" />
-
-### Confusion matrix
-<img src = "cnf.png" width = "640" height = "480"/>
