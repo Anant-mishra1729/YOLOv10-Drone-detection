@@ -9,4 +9,15 @@ https://nbviewer.org/github/Anant-mishra1729/YOLOv9-Drone-detection/blob/main/Yo
   <img src = "https://colab.research.google.com/assets/colab-badge.svg" />
 </a>
 
+### Best weights: 
+
 ## Results
+
+### Video: 🌴 != 🐦
+<img src = "video.gif" />
+
+### Sample predictions
+<img src = "result.png" />
+
+### Confusion matrix
+<img src = "cnf.png" width = "640" height = "480"/>
