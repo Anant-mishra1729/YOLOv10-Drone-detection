@@ -1,12 +1,9 @@
 # Drone detection using Yolov10n
 
 ## Notebook
+[https://nbviewer.org/github/Anant-mishra1729/YOLOv10-Drone-detection/blob/main/Yolov10_drone_detection.ipynb](https://nbviewer.org/github/Anant-mishra1729/YOLOv10-Drone-detection/blob/main/Yolov10_drone_detection.ipynb)
 
-https://nbviewer.org/github/Anant-mishra1729/YOLOv9-Drone-detection/blob/main/Yolov9_drone_detection.ipynb
-
-## Open in Colab
-
-<a href = "https://colab.research.google.com/github/Anant-mishra1729/YOLOv9-Drone-detection/blob/main/Yolov9_drone_detection.ipynb">
+<a href = "https://colab.research.google.com/github/Anant-mishra1729/YOLOv10-Drone-detection/blob/main/Yolov10_drone_detection.ipynb">
   <img src = "https://colab.research.google.com/assets/colab-badge.svg" />
 </a>
 
