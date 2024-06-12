@@ -14,10 +14,8 @@ https://nbviewer.org/github/Anant-mishra1729/YOLOv9-Drone-detection/blob/main/Yo
 
 ## Results
 
-### Video: 🌴 != 🐦
-
-<img src = "video.gif" />
+<img src = "Results/video.gif" />
 
 ### Sample predictions
 
-<img src = "result.png" />
+<img src = "Results/val_pred.png" />
