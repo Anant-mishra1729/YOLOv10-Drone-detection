@@ -1,4 +1,4 @@
-# Drone detection using Yolov10
+# Drone detection using Yolov10n
 
 ## Notebook
 
