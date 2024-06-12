@@ -1,4 +1,4 @@
-# Drone detection using Yolov9
+# Drone detection using Yolov10
 
 ## Notebook
 https://nbviewer.org/github/Anant-mishra1729/YOLOv9-Drone-detection/blob/main/Yolov9_drone_detection.ipynb
