@@ -10,14 +10,6 @@
   <img src = "https://colab.research.google.com/assets/colab-badge.svg" />
 </a>
 
-### Yolov9c
-
-[https://nbviewer.org/github/Anant-mishra1729/YOLOv10-Drone-detection/blob/main/Yolov9_drone_detection.ipynb](https://nbviewer.org/github/Anant-mishra1729/YOLOv10-Drone-detection/blob/main/Yolov9_drone_detection.ipynb)
-
-<a href = "https://colab.research.google.com/github/Anant-mishra1729/YOLOv10-Drone-detection/blob/main/Yolov9_drone_detection.ipynb">
-  <img src = "https://colab.research.google.com/assets/colab-badge.svg" />
-</a>
-
 ### Weights: [Yolov10n (20 epochs)](Weights/yolov10n_best.pt)
 
 ## Results
